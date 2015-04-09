@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Radiant: A _shiny_ interface for R"
+title:  "Introducing Radiant: A shiny interface for R"
 categories: [rstats]
 tags: [rstats, Shiny]
 ---

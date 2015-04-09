@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Radiant"
+title:  "Introducing Radiant: A _shiny_ interface for R"
 categories: [rstats]
 tags: [rstats, Shiny]
 ---
@@ -29,7 +29,7 @@ Radiant works on Windows, Mac, or Linux. It can run without an Internet connecti
 
 Simply saving output is not enough. You need the ability to recreate results for the same data and/or when new data become available. Moreover, others may want to review your analysis and results. Save and load the state of the application to continue your work at a later time or on another omputer. Share state files with others and create reproducible reports using [Rmarkdown](http://rmarkdown.rstudio.com/).
 
-Thanks to [Joe Cheng](https://github.com/jcheng5) you can even share the url (with SSUID) with others so they can see what you are working on if you are using Radiant on a server.
+If you are using Radiant on a server you can even share the url (include the SSUID) with others so they can see what you are working on. Thanks for this feature go to [Joe Cheng](https://github.com/jcheng5).
 
 #### Programming
 
@@ -47,13 +47,13 @@ Radiant focuses on business data and decisions. It offers tools, examples, and d
 
 Radiant is available on [CRAN](http://cran.r-project.org/web/packages/radiant/index.html). To install the latest version with complete documentation for offline access, open R(studio) and copy-and-paste the command below:
 
-```r
+```
 install.packages("radiant", repos = "http://vnijs.github.io/radiant_miniCRAN/")
 ```
 
 Once all packages are installed use the commands below to launch the app:
 
-```r
+```
 library(radiant)
 radiant("marketing")
 ```

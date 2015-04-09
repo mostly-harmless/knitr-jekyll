@@ -37,7 +37,7 @@ Although Radiant's web-interface can handle quite a few data and analysis tasks,
 
 #### Context
 
-Radiant focuses on business data and decisions. It offers content-relevant tools, examples, and documentation to reduce the business analytics learning curve.
+Radiant focuses on business data and decisions. It offers context-relevant tools, examples, and documentation to reduce the business analytics learning curve.
 
 ## How to install Radiant
 

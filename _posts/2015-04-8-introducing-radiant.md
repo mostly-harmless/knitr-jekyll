@@ -37,7 +37,7 @@ Although Radiant's web-interface can handle quite a few data and analysis tasks,
 
 #### Context
 
-Radiant focuses on business data and decisions. It offers tools, examples, and documentation relevant for that context, effectively reducing the business analytics learning curve.
+Radiant focuses on business data and decisions. It offers content-relevant tools, examples, and documentation to reduce the business analytics learning curve.
 
 ## How to install Radiant
 
@@ -45,7 +45,7 @@ Radiant focuses on business data and decisions. It offers tools, examples, and d
 - Required: A modern browser (e.g., [Chrome](https://www.google.com/intl/en/chrome/browser/desktop/) or Safari). Internet Explorer (version 11 or higher) should work as well
 - Recommended: [Rstudio](http://www.rstudio.com/products/rstudio/download/)
 
-Radiant is available on [CRAN](http://cran.r-project.org/web/packages/radiant/index.html). To install the latest version with complete documentation for offline access, open R(studio) and copy-and-paste the command below:
+Radiant is available on [CRAN](http://cran.r-project.org/web/packages/radiant/index.html). To install the latest version with complete documentation for offline access open R(studio) and copy-and-paste the command below:
 
 ```
 install.packages("radiant", repos = "http://vnijs.github.io/radiant_miniCRAN/")
@@ -64,7 +64,7 @@ See also the `Installing Radiant` video:
 
 ## Documentation
 
-Documentation and tutorials are available at <http://vnijs.github.io/radiant/> and in the Radiant web-interface (the `?` icons and the `Help` menu).
+Documentation and tutorials are available at <http://vnijs.github.io/radiant/> and in the Radiant web interface (the `?` icons and the `Help` menu).
 
 Want some help getting started? Watch the tutorials on the [documentation site](http://vnijs.github.io/radiant/tutorials.html)
 

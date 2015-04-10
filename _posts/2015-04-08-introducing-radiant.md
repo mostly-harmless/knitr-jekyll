@@ -54,8 +54,7 @@ install.packages("radiant", repos = "http://vnijs.github.io/radiant_miniCRAN/")
 Once all packages are installed use the commands below to launch the app:
 
 ```
-library(radiant)
-radiant("marketing")
+library(radiant); radiant("marketing")
 ```
 
 See also the `Installing Radiant` video:

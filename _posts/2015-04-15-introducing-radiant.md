@@ -78,3 +78,6 @@ Not ready to install Radiant on your computer? Try it online at the links below:
 <a href="https://vnijs.shinyapps.io/marketing" target="_blank">vnijs.shinyapps.io/marketing</a>
 
 Please send questions and comments to: radiant@rady.ucsd.edu.
+
+-------------------
+aggregated on [R-bloggers](http://r-bloggers.com/) - the complete collection of blogs about R

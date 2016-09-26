@@ -5,7 +5,7 @@ categories: [rstats]
 tags: [rstats, Shiny]
 ---
 
-Radiant is a platform-independent browser-based interface for business analytics in [R](http://www.r-project.org/). I first introduced Radiant through R-bloggers on 5/2/2015 and, according to, Dean Attali the post was [reasonably popular](http://deanattali.com/2015/05/17/analyzing-rbloggers-posts-via-twitter/). So I decided to write a post about the changes to the tool since then.
+Radiant is a platform-independent browser-based interface for business analytics in [R](http://www.r-project.org/). I first introduced Radiant through R-bloggers on 5/2/2015 and, according to Dean Attali, the post was [reasonably popular](http://deanattali.com/2015/05/17/analyzing-rbloggers-posts-via-twitter/). So I decided to write a post about the changes to the tool since then.
 
 Radiant is back on [CRAN](https://cran.r-project.org/web/packages/radiant/index.html) and the code and documentation have been moved to a GitHub organization [radiant-rstats](https://github.com/radiant-rstats). Note that the app is only available for R 3.3.0 or later.
 
